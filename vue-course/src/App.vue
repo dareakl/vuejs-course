@@ -14,8 +14,10 @@ import ModuleStyle from './components/ModuleStyle.vue'
 
 <script setup>
 import MyEvent from './components/MyEvent.vue'
+import MyReactive from './components/MyReactiveComponent.vue'
 </script>
 
 <template>
   <MyEvent />
+  <MyReactive />
 </template>
